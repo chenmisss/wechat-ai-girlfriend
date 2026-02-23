@@ -1,0 +1,10 @@
+node_modules/
+logs/
+data/
+*.log
+.env
+.DS_Store
+AI-Girlfriend.memory-card.json
+config
+*.tmp
+/tmp/
