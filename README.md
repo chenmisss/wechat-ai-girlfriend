@@ -38,8 +38,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/AI_Girlfriend.git
-cd AI_Girlfriend
+git clone https://github.com/chenmisss/wechat-ai-girlfriend.git
+cd wechat-ai-girlfriend
 
 # 安装依赖
 npm install
